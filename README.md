@@ -6,6 +6,10 @@ most of my work is private but will soon go with more open source tools or publi
 i use python and Javascript, because i like to make Deep/machine learning models,databases, docker images,backend APIs, and frontend Ui using ReactJs and tailwind, and surely, i am still learning always.
 
 my favorite framework for APIs is ⚡fastApi⚡,Reactjs for frontend and tailwindcss for styling, yet i know and use 🌱Flask🌱, Django, bootstrap, nestjs and few others when needed!
+this is my linkedIn:
+www.linkedin.com/in/khial-mustapha-87231011a
+and this is my github personal website:
+khialb32.github.io
 <!--
 **khialb32/khialb32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
