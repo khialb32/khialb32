@@ -1,11 +1,11 @@
-### Hi there, i am mustapha, a software developer a network engineer 👋
+### Hi there, i am mustapha, a software developer and an ML engineer 👋
 
-i love wireless networks, but i am currently more active in making APIs for websites or ai models,i enjoy ReactJs and make UIs when needed.
+I am currently  active in making web apps, and ML APIs for NLP and SA,i enjoy ReactJs and make beautiful UIs when needed.
 
 most of my work is private but will soon go with more open source tools or public projects.
 i use python and Javascript, because i like to make Deep/machine learning models,databases, docker images,backend APIs, and frontend Ui using ReactJs and tailwind, and surely, i am still learning always.
 
-my favorite framework for APIs is ⚡fastApi⚡,Reactjs for frontend and tailwindcss for styling, yet i know and use 🌱Flask🌱, Django, bootstrap, nestjs and few others when needed!
+my favorite framework for web APIs is ⚡fastApi⚡, for frontend i use Reactjs, redux, and tailwindcss for styling, yet i know and use 🌱Flask🌱, Django, bootstrap, nextjs and few others when needed!
 this is my linkedIn:
 www.linkedin.com/in/khial-mustapha-87231011a
 and this is my github personal website:
