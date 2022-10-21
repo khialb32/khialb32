@@ -1,11 +1,13 @@
-### Hi there, i am mustapha, a software developer and an ML engineer 👋
+### Hi there, i am mustapha!👋 and i do software engineering.
 
-I am currently  active in making web apps, and ML APIs for NLP and SA,i enjoy ReactJs and make beautiful UIs when needed.
+I have been making fullstack MVPs for few startups, and now i work as full time backend engineer.
+
+i enjoy software engineering, and though i am framework agnostic, i like FastApi, NestJs, Django, and ReactJs.
 
 most of my work is private but will soon go with more open source tools or public projects.
-i use python and Javascript, because i like to make Deep/machine learning models,databases, docker images,backend APIs, and frontend Ui using ReactJs and tailwind, and surely, i am still learning always.
 
-my favorite framework for web APIs is ⚡fastApi⚡, for frontend i use Reactjs, redux, and tailwindcss for styling, yet i know and use 🌱Flask🌱, Django, bootstrap, nextjs and few others when needed!
+i build things with python and Javascript (TypeScript), modern backend systems, SQL databases, Docker, AI APIs, and modern UIs.
+
 this is my linkedIn:
 www.linkedin.com/in/khial-mustapha-87231011a
 and this is my github personal website:
